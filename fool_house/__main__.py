@@ -1,4 +1,5 @@
 from fool_house import schizo_count, from_int_to_schizo_str
+from fool_house import DawnTest
 print("Welcome to durka shell")
 
 while True:
@@ -12,3 +13,5 @@ while True:
         for digit in schizo_count:
             print(digit)
         print("Так считали наши шизопредки")
+    elif command[0] == "test":
+        pass
