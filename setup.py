@@ -1,12 +1,10 @@
 from setuptools import setup
 
-with open("README.md") as f:
-    long_description = f.read()
 
 setup(
     name="Fool-house",
     description="Yellow house",
-    long_description=long_description,
+    long_description="",
     keywords=["YELLOW", "FOOL", "HOUSE", "CORPSMAN", "SCHIZO", "COUNT"],
     author="Andreew Gregory",
     author_email='6squaress@gmail.com',
