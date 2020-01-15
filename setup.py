@@ -11,7 +11,7 @@ setup(
     author="Andreew Gregory",
     author_email='6squaress@gmail.com',
     url="https://github.com/1Gregory/fool-house",
-    download_url="https://github.com/1Gregory/fool-house/archive/1.0.tar.gz",
+    download_url="https://github.com/1Gregory/fool-house/archive/1.1.tar.gz",
     version="1.1",
     install_requires=[],
     packages=["fool_house"],
