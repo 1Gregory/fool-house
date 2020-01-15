@@ -1,5 +1,4 @@
 from setuptools import setup
-from fool_house import __version__
 
 with open("README.md") as f:
     long_description = f.read()
@@ -13,7 +12,7 @@ setup(
     author_email='6squaress@gmail.com',
     url="https://github.com/1Gregory/fool-house",
     download_url="https://github.com/1Gregory/fool-house/archive/1.0.tar.gz",
-    version=__version__,
+    version="1.1",
     install_requires=[],
     packages=["fool_house"],
     license="MIT",
